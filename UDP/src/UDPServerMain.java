@@ -11,6 +11,11 @@ public class UDPServerMain {
         byte[] data = new byte[1024];
 
         //make socket
+        while(1){
+            if(message== "bye"){
+
+            }
+        }
         DatagramSocket ds = new DatagramSocket(1226);
 
         //make packet
