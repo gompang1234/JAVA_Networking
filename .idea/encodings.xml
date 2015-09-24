@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/InetAddress/src/InetAddressMainClass.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/TCP/src/TCPServerMain.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/UDP/src/UDPClientMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/URL/src/URLMain.java" charset="UTF-8" />
   </component>
 </project>
